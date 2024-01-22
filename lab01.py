@@ -21,6 +21,7 @@ def falling(n, k):
         return temp
     else:
         print(1)
+        print(0)
 
 
 def divisible_by_k(n, k):
